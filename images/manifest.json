@@ -88,6 +88,87 @@
                     ]
                 }
             ]
+        },
+        {
+            "id": "https://Mitra-1990.github.io/MitraProject-3/images/pew-nguyen-ZpjqnP817wE-unsplash/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "pew-nguyen-ZpjqnP817wE-unsplash"
+                ]
+            },
+            "height": 4416,
+            "width": 2944,
+            "items": [
+                {
+                    "id": "https://Mitra-1990.github.io/MitraProject-3/images/pew-nguyen-ZpjqnP817wE-unsplash/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Mitra-1990.github.io/MitraProject-3/images/pew-nguyen-ZpjqnP817wE-unsplash/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Mitra-1990.github.io/MitraProject-3/images/pew-nguyen-ZpjqnP817wE-unsplash/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 92,
+                                                "height": 138
+                                            },
+                                            {
+                                                "width": 184,
+                                                "height": 276
+                                            },
+                                            {
+                                                "width": 368,
+                                                "height": 552
+                                            },
+                                            {
+                                                "width": 736,
+                                                "height": 1104
+                                            },
+                                            {
+                                                "width": 1472,
+                                                "height": 2208
+                                            },
+                                            {
+                                                "width": 2944,
+                                                "height": 4416
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 2944,
+                                        "@id": "https://Mitra-1990.github.io/MitraProject-3/images/pew-nguyen-ZpjqnP817wE-unsplash",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4416,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Mitra-1990.github.io/MitraProject-3/images/pew-nguyen-ZpjqnP817wE-unsplash/canvas/"
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
